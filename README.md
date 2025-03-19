@@ -24,8 +24,8 @@
 - make sure you've entered 'Content-Type : application/json'
 - 
 - Go to Body beside Headers Section and enter the below code
-  ## {
-    "contents":[{
+  #
+   { "contents":[{
         "parts":[{
             "text": "Ask Anything:" }]
     }],
