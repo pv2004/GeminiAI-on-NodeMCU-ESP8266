@@ -24,16 +24,16 @@
 - make sure you've entered 'Content-Type : application/json'
   
 - Go to Body beside Headers Section and enter the below code
- { {
-    "contents":[{
+# { 
+   { "contents":[{
         "parts":[{
             "text": "Ask Anything:" }]
     }],
     "generationConfig":{
         "maxOutputTokens": 100
     }
-}}
-     
+  }
+    } 
 
 - That's All you Can upload the code to NodeMCU ESP8266
   select port number and upload
