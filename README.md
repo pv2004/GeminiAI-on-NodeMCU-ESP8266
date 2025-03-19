@@ -5,10 +5,10 @@
   I was able to send questions to Gemini AI and receive intelligent responses directly on the serial monitor.
 
 #💡 Key Highlights:
-✅ ESP8266 + Gemini AI API integration
-✅ Real-time AI-powered responses over serial communication
-✅ Postman API for seamless data exchange
-✅ Embedded AI applications using a microcontroller
+- ✅ ESP8266 + Gemini AI API integration
+- ✅ Real-time AI-powered responses over serial communication
+- ✅ Postman API for seamless data exchange
+- ✅ Embedded AI applications using a microcontroller
 
 - This project showcases how AI and IoT can work together to bring intelligence to embedded systems. Excited to explore more possibilities! 🚀
 
