@@ -3,9 +3,9 @@
 #include <WiFiClientSecure.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "NAKSHATRA-1";  // Replace with your WiFi SSID
-const char* password = "Srinivasan@123";  // Replace with your WiFi password
-const char* Gemini_Token = "AIzaSyDVUL60jXACSa9K2g9hotKHgs6F5pNpNWc";  // Replace with your actual API Key
+const char* ssid = "YOUR NETWORK NAME";  // Replace with your WiFi SSID
+const char* password = "YOUR NETWORK PASSWORD";  // Replace with your WiFi password
+const char* Gemini_Token = "YOUR API KEY";  // Replace with your actual API Key
 const int Gemini_Max_Tokens = 100;  // Max output tokens
 
 void setup() {
