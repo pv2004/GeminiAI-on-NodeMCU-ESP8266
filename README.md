@@ -16,6 +16,7 @@
 
 
 #How to Run:
+- Open ArduinoIDE and paste code provided in Repository.
 - Give Your wifi network user name and password in the dedicated variables in the code.
 - Get your Gemini API Key from https://ai.google.dev/gemini-api/docs and paste that API KEY in 'Gemini_Token' variable.
 - Copy 'String url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=" + String(Gemini_Token);' in your code.
